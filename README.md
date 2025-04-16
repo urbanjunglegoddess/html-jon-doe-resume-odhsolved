@@ -91,7 +91,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] The "About me" section heading should have an id of "about-me".
 - [x] The image should have the id of "candidate-image"
 - [x] The bio paragraph should have a class name of "candidate-bio"
-- [ ] The skills section heading should have the id of "skills"
+- [x] The skills section heading should have the id of "skills"
 - [ ] The skills list should have the id of "skills-list"
 - [ ] The Hobbies section heading should have the id of "hobbies"
 - [ ] The hobbies list should have the id of "hobbies-list"
