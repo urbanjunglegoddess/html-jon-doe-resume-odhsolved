@@ -43,12 +43,12 @@ This assignment should prove that a student is able to:
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing 
 - [x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
-  - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [x] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+  - [x] Use `npm run test` to run all tests in the terminal
+  - [x] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+  - [] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
+  - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [ ] The code MUST be formatted with Prettier
 - [ ] Push the changes to the Github repo, when finished.
