@@ -6,7 +6,6 @@
 
 In this activity, you will create a basic resume webpage using HTML. This activity will demonstrate that by understanding the fundamentals of HTML, you can construct actual web pages!
 
-
 Make sure to watch the [INTRO VIDEO](https://www.loom.com/share/7dc80d1a15f74d718dba51ed8490cacd?sid=40bfa1ba-526c-49b2-993f-7822deb6f731) before you start.
 
 ## Learning objectives
@@ -41,7 +40,7 @@ This assignment should prove that a student is able to:
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
-  - [x] Use `npm run browser-install` to install the browser environment for testing 
+  - [x] Use `npm run browser-install` to install the browser environment for testing
 - [x] All the tasks of the "Specific requirements" section MUST be solved
 - [x] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [x] Use `npm run test` to run all tests in the terminal
@@ -49,7 +48,7 @@ This assignment should prove that a student is able to:
   - [] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
   - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
-- [ ] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
+- [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [ ] The code MUST be formatted with Prettier
 - [ ] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
@@ -62,7 +61,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 
 - [x] Create an html file with the name of "index" in the root of the project
 - [x] Add HTML Boilerplate to the document
-- [x]  Set the document title to be "Jon Doe's resume".
+- [x] Set the document title to be "Jon Doe's resume".
 - [x] Set the page heading to be "Jon Doe"
 - [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
 - [x] Add an image with required and important attributes
