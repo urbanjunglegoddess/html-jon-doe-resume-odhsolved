@@ -98,4 +98,4 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] The contacts section heading should have the id of "contacts"
 - [x] The contacts table should have a class name of "contacts-table".
 - [x] The body should have a class name of "fancy-body".
-- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
+- [x] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p2-solved-mockup.png).
