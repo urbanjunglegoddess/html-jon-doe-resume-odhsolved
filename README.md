@@ -61,7 +61,7 @@ This assignment should prove that a student is able to:
 All the tasks in the requirements are related to the index.html file! Consider "Jon Doe" to be replaced with your real first and last name.
 
 - [x] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
+- [x] Add HTML Boilerplate to the document
 - [ ] Set the document title to be "Jon Doe's resume".
 - [ ] Set the page heading to be "Jon Doe"
 - [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
