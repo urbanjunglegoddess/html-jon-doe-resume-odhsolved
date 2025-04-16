@@ -64,7 +64,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Add HTML Boilerplate to the document
 - [x]  Set the document title to be "Jon Doe's resume".
 - [x] Set the page heading to be "Jon Doe"
-- [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
+- [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
 - [ ] Add an image with required and important attributes
   - [ ] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
   - [ ] The image alternative text should match the page title.
