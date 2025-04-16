@@ -85,7 +85,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 ### Part 2: Testing the magic of id and class attributes
 
 - [x] In the head section connect the CSS file, available by the following path: `./css/styles.css`.
-- [ ] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
+- [x] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
 - [ ] The page heading should have the id of "candidate-name"
 - [ ] The desired role section heading should the id of "candidate-desired-role"
 - [ ] The "About me" section heading should have an id of "about-me".
