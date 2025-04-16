@@ -88,7 +88,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
 - [x] The page heading should have the id of "candidate-name"
 - [x] The desired role section heading should the id of "candidate-desired-role"
-- [ ] The "About me" section heading should have an id of "about-me".
+- [x] The "About me" section heading should have an id of "about-me".
 - [ ] The image should have the id of "candidate-image"
 - [ ] The bio paragraph should have a class name of "candidate-bio"
 - [ ] The skills section heading should have the id of "skills"
