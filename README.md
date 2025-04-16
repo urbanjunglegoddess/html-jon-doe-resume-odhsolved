@@ -65,9 +65,9 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x]  Set the document title to be "Jon Doe's resume".
 - [x] Set the page heading to be "Jon Doe"
 - [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
-- [ ] Add an image with required and important attributes
-  - [ ] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
-  - [ ] The image alternative text should match the page title.
+- [x] Add an image with required and important attributes
+  - [x] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
+  - [x] The image alternative text should match the page title.
 - [ ] Add a section heading with the content of "About Me".
 - [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
 - [ ] Add the section heading "My Skills"
