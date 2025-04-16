@@ -76,7 +76,7 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] Add the UNORDERED list of 4 hobbies
 - [x] Add the section heading "Contact Me"
 - [x] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
-- [ ] Add Discord as a service and your discord's real username as a value to the table.
+- [x] Add Discord as a service and your discord's real username as a value to the table.
 - [ ] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
 - [ ] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
 - [ ] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
